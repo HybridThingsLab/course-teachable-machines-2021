@@ -1,1 +1,1 @@
-{"tfjsVersion":"1.3.1","tmVersion":"2.2.2","packageVersion":"0.8.4","packageName":"@teachablemachine/image","timeStamp":"2020-10-08T08:32:04.248Z","userMetadata":{},"modelName":"tm-my-image-model","labels":["A","B"]}
+{"tfjsVersion":"1.3.1","tmVersion":"2.3.1","packageVersion":"0.8.4","packageName":"@teachablemachine/image","timeStamp":"2021-03-15T20:42:15.439Z","userMetadata":{},"modelName":"tm-my-image-model","labels":["A","B","C"]}
