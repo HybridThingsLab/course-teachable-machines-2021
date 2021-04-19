@@ -102,7 +102,7 @@ live demo [NeuralNetwork_classifier_handpose](https://hybridthingslab.github.io/
 ![NN_classifier_handpose](docs/NN_classifier_handpose.jpg)
 
 ## Neural Network Regression simple (position mouse x, y, 3 sliders)
-live demo [NeuralNetwork_classifier](https://hybridthingslab.github.io/course-teachable-machines-2021/Block_II/14_NeuralNetwork_regression_simple/)
+live demo [NeuralNetwork_regression](https://hybridthingslab.github.io/course-teachable-machines-2021/Block_II/14_NeuralNetwork_regression_simple/)
 
 ![NN_regression_simple](docs/NN_regression_simple.jpg)
 
