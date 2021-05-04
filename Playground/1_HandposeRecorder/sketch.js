@@ -60,6 +60,7 @@ function draw() {
   drawSkeleton();
 
   fill(255, 0, 0);
+  noStroke();
   textSize(20);
   text("recording: " + recording, 20, 20);
 
